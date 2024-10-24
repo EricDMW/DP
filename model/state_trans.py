@@ -15,11 +15,10 @@ import sys
 from pathlib import Path
 path_dir = Path(__file__).resolve().parents[0]
 
-
-
 class state_tansation:
     def __init__(self, args):
         """
         Constructor for state_tansation
         """
+        self.num_agents = args.num_agents
     
