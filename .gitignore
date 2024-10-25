@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Deleted Files
+deleted/
+
 # Spyder project settings
 .spyderproject
 .spyproject

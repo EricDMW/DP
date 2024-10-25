@@ -1,0 +1,11 @@
+The minimum value of f(x) on [0,1] is 0.5 at x = 1.0
+The minimum value of f(x) on [0,1] is 1.3333333730697632 at x = 1.0
+The minimum value of f(x) on [0,1] is 2.25 at x = 0.9999989867210388
+The minimum value of f(x) on [0,1] is 3.3068206310272217 at x = 0.8983308672904968
+The minimum value of f(x) on [0,1] is 4.452413082122803 at x = 0.817602813243866
+The minimum value of f(x) on [0,1] is 5.680700302124023 at x = 0.7569707632064819
+
+
+[0, tensor(0.5000, device='cuda:0'), tensor(1.3333, device='cuda:0'),
+ tensor(2.2500, device='cuda:0'), tensor(3.3068, device='cuda:0'), 
+ tensor(4.4524, device='cuda:0'), tensor(5.6807, device='cuda:0')]

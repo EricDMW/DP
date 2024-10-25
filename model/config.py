@@ -36,4 +36,9 @@ def get_config():
                         type=int,
                         default=4,
                         help='number of agents start from initial points')
+    
+    parser.add_argument('--num_init_agents',
+                        type=int,
+                        default=6,
+                        help='number of agents start from initial points')
     return parser
